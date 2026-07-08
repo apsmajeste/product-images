@@ -1,0 +1,153 @@
+Need to make this as Mobile & pc responsive website
+
+Homepage Structure:
+Header
+Hero Slider
+Trust Bar
+Shop by Category
+Best Sellers
+Why APS Majeste
+Brand Story
+Customer Reviews
+Where to Buy
+Become a Distributor
+Instagram
+Footer
+
+
+Header and Footer to be changed
+Header (PC)
+Home
+Perfumes
+Face Wash
+About Us
+Become a Distributor
+Contact us
+
+
+Mobile Header
+--------------------------------
+☰      APS MAJESTE     🔍
+--------------------------------
+When the menu opens:
+
+Home
+Perfumes
+Face Wash
+About Us
+Become a Distributor
+Contact
+Where to Buy
+WhatsApp
+
+
+
+Slider Features
+
+Full-screen banners
+Auto-play every 5–6 seconds
+Manual navigation arrows
+Dot indicators
+Mobile responsive
+Smooth fade animation
+Optimized images for fast loading	
+
+Best Sellers ⭐
+This should be a product carousel.
+
+Example:
+
+Dawn
+White Oud
+Coco
+Black Fury
+Vitamin C Face Wash
+Papaya Glow
+
+Each product card should have:
+
+Product image
+Short benefit
+⭐⭐⭐⭐⭐
+Buy Now
+
+Why APS Majeste
+🇮🇳 Made in India
+🌿 Premium Ingredients
+⏳ Long Lasting
+💎 Affordable Luxury
+🧴 Quality Formulations
+🚚 Available on Amazon & Myntra
+
+Customer Reviews
+
+A clean carousel with ratings and testimonials.
+
+Where to Buy Logo
+
+Amazon
+
+Myntra
+
+Flipkart
+
+Jio Mart
+
+
+Coming Soon
+Ajio
+Nayka
+Blinkit
+Zepto 
+Instamart
+
+Coming Soon at Offline Super Mart
+
+(Dmart/Reliance Retail JioMart)
+
+Official Website (Future)
+
+# At Buy Now only Logo Required of Amazon and Myntra
+
+Buy Now Product link to be updated of Amazon and Myntra
+
+Reach out to us - Whatsappy/EMail/Call
+Business & Distribution Enquiries : Google Form
+
+Footer
+
+=================================================================================
+                               APS MAJESTE LOGO
+
+Premium Fragrance & Skincare | Affordable Luxury for Every Indian
+
+---------------------------------------------------------------------------------
+
+Quick Links        Products          Customer Care      Business        Connect
+
+Home               Perfumes          Contact Us         Become          Instagram
+About Us           Face Wash         FAQs               Distributor     Facebook
+Brand Story                          Shipping           Retailer        WhatsApp
+Contact                              Privacy Policy     Bulk Orders     
+                                     Terms & Conditions                 
+
+---------------------------------------------------------------------------------
+
+📧 office@apsmajeste.com
+
+📞 +91 83067 15457
+
+📍 S206 2nd Floor, Amritshree, Ashok Nagar Udaipur-313001, Rajasthan, India
+
+---------------------------------------------------------------------------------
+
+🛒 Shop on Amazon      🛍 Shop on Myntra
+
+---------------------------------------------------------------------------------
+
+© 2026 APS Majeste. All Rights Reserved.
+Crafted with ❤️ in India.
+=================================================================================
+
+
+
